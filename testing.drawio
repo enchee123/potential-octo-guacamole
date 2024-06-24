@@ -1,9 +1,190 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T02:50:04.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.6.2" etag="gEK8onlFaT7914QrNrI2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T10:25:50.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="pe7cfxt4B3aPJTrHwvY8" version="24.6.2" type="github">
   <diagram name="Page-1" id="dePzzRrWNIIpcqVm1SJM">
-    <mxGraphModel>
+    <mxGraphModel dx="1169" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VlAI6jfmsearoUz-VZGd-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="VlAI6jfmsearoUz-VZGd-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="250" as="targetPoint" />
+            <mxPoint x="400" y="179.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VlAI6jfmsearoUz-VZGd-5" target="VlAI6jfmsearoUz-VZGd-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VlAI6jfmsearoUz-VZGd-5" target="VlAI6jfmsearoUz-VZGd-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="249.9999999999999" />
+              <mxPoint x="80" y="676" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-5" value="valid card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VlAI6jfmsearoUz-VZGd-7" target="VlAI6jfmsearoUz-VZGd-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VlAI6jfmsearoUz-VZGd-7" target="VlAI6jfmsearoUz-VZGd-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="350" />
+              <mxPoint x="160" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VlAI6jfmsearoUz-VZGd-7" target="VlAI6jfmsearoUz-VZGd-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="350" />
+              <mxPoint x="550" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-7" value="valid PIN number" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VlAI6jfmsearoUz-VZGd-9" target="VlAI6jfmsearoUz-VZGd-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="VlAI6jfmsearoUz-VZGd-9" target="VlAI6jfmsearoUz-VZGd-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="440" />
+              <mxPoint x="200" y="440" />
+              <mxPoint x="200" y="640" />
+              <mxPoint x="340" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-9" value="choosing transaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VlAI6jfmsearoUz-VZGd-11" target="VlAI6jfmsearoUz-VZGd-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VlAI6jfmsearoUz-VZGd-11" target="VlAI6jfmsearoUz-VZGd-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="560" />
+              <mxPoint x="620" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-11" value="performing transaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VlAI6jfmsearoUz-VZGd-13" target="VlAI6jfmsearoUz-VZGd-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-13" value="reject valid card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-14" value="valid card success" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-15" value="valid card" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-16" value="pin number validated" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="370" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-18" value="transaction type" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="460" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-19" value="reject card" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="620" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-24" value="invalid&amp;nbsp; access card" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-29" value="cancel invalid card&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="410" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-32" value="cancel access card" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="740" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-38" value="enter pin number" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-39" value="display transaction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-40" value="transaction performing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="500" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-41" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-43" value="try again pin number" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-44" value="select other transaction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="490" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-45" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VlAI6jfmsearoUz-VZGd-39" target="VlAI6jfmsearoUz-VZGd-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-46" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="294" as="sourcePoint" />
+            <mxPoint x="540" y="294.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-47" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="500" as="sourcePoint" />
+            <mxPoint x="600" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-48" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="620" as="sourcePoint" />
+            <mxPoint x="550" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-49" value="ya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-50" value="cancel transaction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="740" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.833;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VlAI6jfmsearoUz-VZGd-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="738.75" as="sourcePoint" />
+            <mxPoint x="540" y="738.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-52" value="display card message" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="210" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlAI6jfmsearoUz-VZGd-53" value="reject card" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
